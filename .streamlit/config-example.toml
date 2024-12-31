@@ -1,0 +1,22 @@
+[global]
+developmentMode = false
+browser.serverName = ""
+
+[server]
+port = 
+
+[theme]
+base = "light"
+
+[new_branch]
+br_name = ""
+br_date = ""
+logsize_limit = 
+
+[othaimy_chatbot]
+model_name = ""
+temperature = 1
+
+[logger]
+level = "INFO"
+format = "%(asctime)s - [%(levelname)s] - %(filename)s:%(lineno)d - %(message)s"

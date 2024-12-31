@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+othaim-env/
+build/
+dist/
+draft/
+draft.*
+tree.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.env
+run_streamlit.bat
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+*/__pypackages__/
+__pypackages__/
+
+*.log
+.streamlit/config.toml
